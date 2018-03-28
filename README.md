@@ -21,5 +21,7 @@ To make the videos seamless, i trimmed the first N seconds and faded it into the
 
 ## GIFs
 I export to gif only because twitter automatically loops gifs, but doesn't loop mp4s. IIRC twitter converts GIFs to MP4s for serving, making it even more ridiculous.
+
 These commands were taken straight from http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
+
 The proper pronounciation of this script is /tuːgIf/ with a hard G to remove any chance of ambiguity that the speaker might be referring to the JIFF image file format or an oversweetened brand of peanut butter
