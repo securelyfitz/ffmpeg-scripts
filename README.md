@@ -19,3 +19,7 @@ I started by running h-pan.sh on all my capture videos, all at once, to see what
 ## Looping
 To make the videos seamless, i trimmed the first N seconds and faded it into the last N seconds. loop.sh should do this, and you can adjust the duration of the crossfade, as long as it's less than 1/2 the total source video duration. The videos start cleanly, but then the last N seconds is the fade out and fade in, so that when it loops, it goes back to the 100% faded in starting point. 
 
+## GIFs
+I export to gif only because twitter automatically loops gifs, but doesn't loop mp4s. IIRC twitter converts GIFs to MP4s for serving, making it even more ridiculous.
+These commands were taken straight from http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
+The proper pronounciation of this script is /tuːgIf/ with a hard G to remove any chance of ambiguity that the speaker might be referring to the JIFF image file format or an oversweetened brand of peanut butter
